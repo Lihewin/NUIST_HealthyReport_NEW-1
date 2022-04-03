@@ -201,7 +201,7 @@ def main():
     arg = parser.parse_args()
     mode = arg.mode
     if mode == 'file':
-        with open("user_data.json", "r") as f:
+        with open("config/config.json", "r") as f:
             user_data = json.load(f)
         username = user_data['username']
         password = user_data['password']

@@ -1,0 +1,7 @@
+# yaml 配置实例
+version: '3'
+services:
+  Auto_Health_Report:
+    build: .
+volumes:
+  - ~/AutoHealthReport/:/code/config
