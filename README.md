@@ -1,6 +1,8 @@
 # NUIST_HealthyReport_NEW
 | 可能是首个支持新版健康管理的 Python 自动填写工具，顺便支持了一下自动识别统一认证的验证码
 ## 说明
+
+由于不可抗力，本项目已作废。
 本项目为 https://github.com/InfinityWei/NUIST_HealthyReport_NEW 的分支项目，
 主要是在源代码的基础上添加一点奇奇怪怪的功能。
 
